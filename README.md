@@ -1,18 +1,17 @@
 <h1 align="center">
  <img width="100%" height="30%" src="182722799_153076706758927_4684031629637714347_n.jpg">
 </h1>
-<h1 align="center">Hi 👋😄, I'm Daiyan Kabir <span style="color:red;"> Daiyan </span></h1>
-<h3 align="center">I am Software Developer.</h3>
+<h1 align="center">Hi 👋😄, I'm Daiyan Kabir <span style="color:red;">  </span></h1>
+<h3 align="center">I am a Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daiyankabir&label=Profile%20views&color=0e75b6&style=flat" alt="daiyankabir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daiyankabir" alt="daiyankabir" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET, React , OpenCV**
+- 🌱 I’m currently learning **ASP.NET, VUE js
 
 - 📫 How to reach me **kabirdaiyan@gmail.com**
 
-- ⚡ Fun fact **I know how to say 'NO'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
