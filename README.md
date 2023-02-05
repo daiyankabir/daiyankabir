@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daiyankabir" alt="daiyankabir" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET, VUE js
+- 🌱 I’m currently learning **ASP.NET, VUE js, Django
 
 - 📫 How to reach me **kabirdaiyan@gmail.com**
 
