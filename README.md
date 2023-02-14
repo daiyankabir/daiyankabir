@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/daiyan-kabir-a26682164/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daiyankabir" height="30" width="40" /></a>&nbsp
 <a href="https://www.facebook.com/daiyan.kabir1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daiyankabir" height="30" width="40" /></a>&nbsp
-<a href="https://www.instagram.com/daiyan_kabir03/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="daiyankabir" height="30" width="40" /></a>&nbsp
+<!-- <a href="https://www.instagram.com/daiyan_kabir03/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="daiyankabir" height="30" width="40" /></a>&nbsp -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
