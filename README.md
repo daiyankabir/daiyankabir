@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daiyankabir&label=Profile%20views&color=0e75b6&style=flat" alt="daiyankabir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daiyankabir" alt="daiyankabir" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daiyankabir" alt="daiyankabir" /></a> </p> -->
 
 - 🌱 I’m currently learning **ASP.NET, VUE js, Django
 
