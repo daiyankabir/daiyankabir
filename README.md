@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<div id="header" align="center">
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=daiyankabir&label=Profile%20views&color=0e75b6&style=flat" alt="daiyankabir" /> </p>
-</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daiyankabir&label=Profile%20views&color=0e75b6&style=flat" alt="daiyankabir" /> </p>
+
 
 <h1 align="center">Hi 👋, I'm Daiyan Kabir <span style="color:red;">  </span></h1>
 <h3 align="center">I am a Software Developer.</h3>
