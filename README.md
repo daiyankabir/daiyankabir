@@ -57,25 +57,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daiyankabir&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiyankabir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-<!-- 
-<p><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiyankabir&show_icons=true&locale=en&layout=compact" alt="daiyankabir" /></p>
 
-<p>&nbsp;<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=daiyankabir&show_icons=true&locale=en" alt="daiyankabir" /></p> -->
 
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=daiyankabir&show_icons=true&theme=dark"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiyankabir&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-     </tr>
-   </table>
-</p>
 
 
 
