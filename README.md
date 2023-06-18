@@ -36,6 +36,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🌱 I’m currently learning **ASP.NET, VUE js, Django, Blazor
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
