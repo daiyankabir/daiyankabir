@@ -32,9 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daiyan-kabir)
 
-- 🌱 I’m currently learning **ASP.NET, VUE js, Django
-
-- 📫 How to reach me **kabirdaiyan@gmail.com**
+- 🌱 I’m currently learning **ASP.NET, VUE js, Django, Blazor
 
 
 <h3 align="left">Connect with me:</h3>
