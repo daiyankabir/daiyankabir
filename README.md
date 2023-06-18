@@ -11,7 +11,9 @@
   <a href="https://www.facebook.com/daiyan.kabir1">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=daiyankabir&label=Profile%20views&color=0e75b6&style=flat" alt="daiyankabir" /> </p>
+</div>
+<div id="header" align="center">
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=daiyankabir&label=Profile%20views&color=0e75b6&style=flat" alt="daiyankabir" /> </p>
 </div>
 <!-- <h1 align="center">
  <img width="100%" height="30%" src="182722799_153076706758927_4684031629637714347_n.jpg">
