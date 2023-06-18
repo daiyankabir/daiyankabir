@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">
  <img width="100%" height="30%" src="182722799_153076706758927_4684031629637714347_n.jpg">
 </h1>
