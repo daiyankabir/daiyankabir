@@ -19,7 +19,7 @@
 <h1 align="center">Hi 👋, I'm Daiyan Kabir <span style="color:red;">  </span></h1>
 <h3 align="center">I am a Software Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daiyankabir&label=Profile%20views&color=0e75b6&style=flat" alt="daiyankabir" /> </p>
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daiyankabir" alt="daiyankabir" /></a> </p> -->
 
