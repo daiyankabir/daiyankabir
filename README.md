@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1 align="center">
+<!-- <h1 align="center">
  <img width="100%" height="30%" src="182722799_153076706758927_4684031629637714347_n.jpg">
-</h1>
+</h1> -->
 <h1 align="center">Hi 👋, I'm Daiyan Kabir <span style="color:red;">  </span></h1>
 <h3 align="center">I am a Software Developer.</h3>
 
