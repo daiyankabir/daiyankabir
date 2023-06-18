@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/daiyan-kabir">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="kabirdaiyan@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.facebook.com/daiyan.kabir1">
