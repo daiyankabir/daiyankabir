@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to both frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -34,7 +34,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-- 🌱 I’m currently learning **ASP.NET, VUE js, Django, Blazor
+- 🌱 I’m currently learning **C#, .NET, VUE js, Django, Blazor
 
 ---
 
