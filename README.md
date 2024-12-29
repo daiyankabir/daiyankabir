@@ -34,7 +34,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-- 🌱 I’m currently learning **C#, .NET, VUE js, Django, Blazor
+- 🌱 I’m currently learning **MERN
 
 ---
 
