@@ -33,9 +33,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 
-
-- 🌱 I’m currently learning **MERN
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
