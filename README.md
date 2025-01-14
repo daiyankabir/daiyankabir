@@ -62,8 +62,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <p align="center">
    <table>
       <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
+       <th> Streak </th>
+       <th>Profile stats</th>
      </tr>
       <tr>
        <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daiyankabir&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a> </td>
