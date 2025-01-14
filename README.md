@@ -59,6 +59,20 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiyankabir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daiyankabir&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiyankabir&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
+
 
 
 
