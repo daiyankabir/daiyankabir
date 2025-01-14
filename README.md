@@ -65,8 +65,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td>[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daiyankabir&theme=dark&background=000000)](https://git.io/streak-stats) </td>
-       <td>[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiyankabir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </td>
+       <td>[!GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daiyankabir&theme=dark&background=000000)](https://git.io/streak-stats) </td>
+       <td>[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiyankabir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </td>
      </tr>
    </table>
 </p>
